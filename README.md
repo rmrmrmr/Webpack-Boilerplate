@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Ricardo Martínez**
 
 - GitHub: [@rmrmrmr](https://github.com/rmrmrmr)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@ricmtza](https://twitter.com/ricmtza)
 - LinkedIn: [Ricardo Martínez](https://www.linkedin.com/in/ricardomtz7714/)
 
 ## 🤝 Contributing
