@@ -2,41 +2,45 @@
 
 # Project Name
 
-> This is a repository template for web-development projects that use HTML, CSS and JavaScript. It has some usefull tools that can be installed by running `npm i` on the root of your directory. These are: Webpack, Jest and Babel. It also supports linters for the three programming languages and a `linters.yml` file setup for automatic checks with GitHub Workflows. The linters used and their corresponding commands are Lighthouse, Webhint(`npm install --save-dev hint@7.x` & `npx hint .`), Stylelint (`npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x` & `npx stylelint "**/*.{css,scss}"`) and ESLint (`npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x` & `npx eslint .`) This specific file is a template for the README.md file, so all of the following code can be modified for your specific project.  
+> Write a description of the project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML 🏗️
+- Tailwind CSS 🎨🖌️
+- JavaScript 🤖
+- Webpack 📦
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo](https://github.com/rmrmrmr/Webpack-Boilerplate)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Have a source code editor such as VSCode
+- Install nodeJS along with NPM
 
 ### Setup
+- Clone this repository into your local environment with `git clone git@github.com:rmrmrmr/Webpack-Boilerplate.git`
 
 ### Install
+- Just run `npm i` on the root of the project and you're good to go. All of the necesary packages will be installed for you!
 
 ### Usage
 
 ### Run tests
+- Run `npm run start` to se a live version of the project on your browser
+- Run `npx hint .` to get Webhint going, a linter for HTML
+- Run `npx stylelint --fix "**/*.{css,scss}"` to get Stylelint going, a linter for CSS
+- Run `npx eslint --fix .` to get ESLint going, a linter for JS
 
 ### Deployment
-
-
+- Run `npm run build` for Webpack to generate the dist files corresponding to your actual /src files
 
 ## Authors
 
@@ -58,9 +62,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to the Microverse program!
+
 
 ## 📝 License
 
